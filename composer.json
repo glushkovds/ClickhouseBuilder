@@ -1,6 +1,6 @@
 {
-  "name": "the-tinderbox/clickhouse-builder",
-  "description": "Clickhouse sql query builder",
+  "name": "glushkovds/clickhouse-builder",
+  "description": "Clickhouse sql query builder, forked from the-tinderbox/ClickhouseBuilder",
   "authors": [
     {
       "name": "FacedSID",
